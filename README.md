@@ -26,12 +26,6 @@ The script calculates and outputs the following:
 
 ---
 
-## 📂 Project Structure
-├── adult.data.csv # Dataset file
-├── demographic_data.py # Main analysis script
-└── README.md # Project documentation
-
-
 🧑‍💻 Author
 
 Created as part of a data analysis learning project using Python and Pandas.
